@@ -10,6 +10,8 @@ for(int indexIdade = 0; indexIdade < idades.Length;indexIdade++)
     idades[indexIdade] = Convert.ToInt32(Console.ReadLine());
 }
 
+Console.WriteLine(idades.Average());
+
 Console.WriteLine(idades.Min());
 
 Console.WriteLine(idades.Max());

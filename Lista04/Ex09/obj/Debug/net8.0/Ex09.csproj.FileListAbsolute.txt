@@ -1,0 +1,15 @@
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\bin\Debug\net8.0\Ex09.exe
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\bin\Debug\net8.0\Ex09.deps.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\bin\Debug\net8.0\Ex09.runtimeconfig.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\bin\Debug\net8.0\Ex09.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\bin\Debug\net8.0\Ex09.pdb
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfoInputs.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.AssemblyInfo.cs
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.csproj.CoreCompileInputs.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.sourcelink.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\refint\Ex09.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.pdb
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\Ex09.genruntimeconfig.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex09\obj\Debug\net8.0\ref\Ex09.dll

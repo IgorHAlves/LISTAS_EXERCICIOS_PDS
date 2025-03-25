@@ -1,0 +1,15 @@
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\bin\Debug\net8.0\Ex11.exe
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\bin\Debug\net8.0\Ex11.deps.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\bin\Debug\net8.0\Ex11.runtimeconfig.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\bin\Debug\net8.0\Ex11.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\bin\Debug\net8.0\Ex11.pdb
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfoInputs.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.AssemblyInfo.cs
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.csproj.CoreCompileInputs.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.sourcelink.json
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\refint\Ex11.dll
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.pdb
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\Ex11.genruntimeconfig.cache
+C:\PROGRAMACAO\LISTAS_EXERCICIOS_PDS\Lista04\Ex11\obj\Debug\net8.0\ref\Ex11.dll

@@ -14,6 +14,8 @@ vogais[4] = 'u';
 
 string frase = Console.ReadLine();
 
+Console.WriteLine(frase[2]);
+
 for(int indexLetra = 0; indexLetra < frase.Length; indexLetra++)
 {
     foreach(char vogal in vogais)
