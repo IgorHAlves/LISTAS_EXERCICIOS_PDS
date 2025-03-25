@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EBA2E14E-75B6-4397-8F31-73F5430070BC}|Ex08\\Ex08.csproj|c:\\dev\\listas_exercicios_pds\\lista04\\ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA2E14E-75B6-4397-8F31-73F5430070BC}|Ex08\\Ex08.csproj|solutionrelative:ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3C1CDAD-AB50-4266-BF05-4A7E2C706D3D}|Ex07\\Ex07.csproj|c:\\dev\\listas_exercicios_pds\\lista04\\ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3C1CDAD-AB50-4266-BF05-4A7E2C706D3D}|Ex07\\Ex07.csproj|solutionrelative:ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Ex08\\Program.cs",
+              "ToolTip": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex08\\Program.cs",
+              "RelativeToolTip": "Ex08\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T01:22:58.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex07\\Program.cs",
               "RelativeDocumentMoniker": "Ex07\\Program.cs",
               "ToolTip": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex07\\Program.cs",
               "RelativeToolTip": "Ex07\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T01:09:32.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex06\\Program.cs",
               "RelativeDocumentMoniker": "Ex06\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Ex06\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T21:18:10.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T21:18:10.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex05\\Program.cs",
               "RelativeDocumentMoniker": "Ex05\\Program.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex03\\Program.cs",
               "RelativeDocumentMoniker": "Ex03\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex04\\Program.cs",
               "RelativeDocumentMoniker": "Ex04\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex02\\Program.cs",
               "RelativeDocumentMoniker": "Ex02\\Program.cs",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista04\\Ex01\\Program.cs",
               "RelativeDocumentMoniker": "Ex01\\Program.cs",
