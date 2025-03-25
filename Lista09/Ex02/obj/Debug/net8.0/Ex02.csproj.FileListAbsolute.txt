@@ -1,0 +1,15 @@
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\bin\Debug\net8.0\Ex02.exe
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\bin\Debug\net8.0\Ex02.deps.json
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\bin\Debug\net8.0\Ex02.runtimeconfig.json
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\bin\Debug\net8.0\Ex02.dll
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\bin\Debug\net8.0\Ex02.pdb
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfoInputs.cache
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.AssemblyInfo.cs
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.csproj.CoreCompileInputs.cache
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.sourcelink.json
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.dll
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\refint\Ex02.dll
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.pdb
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\Ex02.genruntimeconfig.cache
+C:\dev\LISTAS_EXERCICIOS_PDS\Lista09\Ex02\obj\Debug\net8.0\ref\Ex02.dll

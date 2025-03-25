@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\Lista09\\",
+  "WorkspaceRootPath": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDF73B03-621C-45A9-B6AD-30723186F46E}|Ex01\\Ex01.csproj|c:\\users\\aluno\\source\\repos\\lista09\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDF73B03-621C-45A9-B6AD-30723186F46E}|Ex01\\Ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28B811A0-486A-424E-A36D-3936459010F5}|Ex03\\Ex03.csproj|c:\\dev\\listas_exercicios_pds\\lista09\\ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B811A0-486A-424E-A36D-3936459010F5}|Ex03\\Ex03.csproj|solutionrelative:ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B811A0-486A-424E-A36D-3936459010F5}|Ex03\\Ex03.csproj|c:\\dev\\listas_exercicios_pds\\lista09\\ex03\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B811A0-486A-424E-A36D-3936459010F5}|Ex03\\Ex03.csproj|solutionrelative:ex03\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +22,34 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista09\\Ex03\\Produto.cs",
+              "RelativeDocumentMoniker": "Ex03\\Produto.cs",
+              "ToolTip": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista09\\Ex03\\Produto.cs",
+              "RelativeToolTip": "Ex03\\Produto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:52:09.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\Lista09\\Ex01\\Program.cs",
-              "RelativeDocumentMoniker": "Ex01\\Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\Lista09\\Ex01\\Program.cs",
-              "RelativeToolTip": "Ex01\\Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAgwF0AAABEAAAA",
+              "DocumentMoniker": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista09\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Ex03\\Program.cs",
+              "ToolTip": "C:\\dev\\LISTAS_EXERCICIOS_PDS\\Lista09\\Ex03\\Program.cs",
+              "RelativeToolTip": "Ex03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T23:47:26.86Z",
+              "WhenOpened": "2025-03-25T00:51:48.419Z",
               "EditorCaption": ""
             }
           ]
